@@ -1,0 +1,23 @@
+body {
+  background-color: gray;
+}
+.myDiv {
+  margin: 200px auto auto auto;
+  width: 450px;
+  background-color: white;
+}
+.myDiv_01 {
+  text-align: center;
+}
+.myDiv_02  {
+  text-align: right;
+}
+.myDiv_03 {
+  display: block;
+}
+.changeButton {
+  float:right;
+}
+a {
+  cursor: pointer;
+}
